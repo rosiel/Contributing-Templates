@@ -29,12 +29,12 @@ Anyone with a github account may create an issue, but there are some constraints
 
 ## Constraints on merging 
 
-As with all projects in Islandora Labs, all contributors to a pull request must have a 
-CLA [Contributor License Agreement] on file before it can be merged. 
+As with all projects in Islandora Labs, all contributors to a pull request must have an Islandora 
+CLA ([Contributor License Agreement]) on file before it can be merged. 
 Here, a contributor is defined as the author of a git commit.
 
-In Islandora Labs, the rules for merging may be different from the standard [Islandora Committer's Workflow]. 
-These are set at the discretion of the Current Maintainer, as defined in this project's README.md.
+In Islandora Labs, the policies for merging may be different from the standard [Islandora Committer's Workflow]. 
+These policies are set at the discretion of the Current Maintainer, as defined in this project's README.md.
 
 In this project, the following policies apply:
 * Only members of the [Islandora Labs Committers Group] may merge pull requests.
