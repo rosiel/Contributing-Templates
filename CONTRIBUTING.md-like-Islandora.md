@@ -23,12 +23,15 @@ Islandora, and Islandora Labs, invites community discussion on the following cha
 
 To request a feature, report a bug, or suggest improvements to documentation for this repository:
 * create an issue using the Github Issues tool
-* then, if you can, create a pull request referencing that issue. 
+* if you would also like to contribute a fix, then create a pull request referencing that issue. 
+
+Anyone with a github account may create an issue, but there are some constraints (see below) on who may contribute pull requests.
 
 ## Constraints on merging 
 
 As with all projects in Islandora Labs, all contributors to a pull request must have a 
-CLA [Contributor License Agreement] on file before it can be merged. Here, a contributor is defined as the author of a git commit.
+CLA [Contributor License Agreement] on file before it can be merged. 
+Here, a contributor is defined as the author of a git commit.
 
 In Islandora Labs, the rules for merging may be different from the standard [Islandora Committer's Workflow]. 
 These are set at the discretion of the Current Maintainer, as defined in this project's README.md.
